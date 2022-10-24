@@ -1,0 +1,89 @@
+body {
+    /* Set the entire body background color to aquamarine and font Impact */
+    background-color: aquamarine;
+    font-family: Impact;
+}
+
+#page-title {
+    text-shadow: 4px 4px magenta;
+}
+
+.section-header {
+    color: darkblue;
+}
+
+#favorite-movie-title {
+    font-style: italic;
+    color: darkgreen;
+}
+
+p {
+    /* Make the paragraph elements purple and set font size to 25 */
+    color: purple;
+    font-size: 25px;
+}
+
+h1 {
+    /* Set header1 elements to navy, 40px, center them, and font Arial */
+    color: navy;
+    font-size: 40px;
+    text-align: center;
+    font-family: Arial;
+}
+
+h2 {
+    /* Set header2 elements to font-size 32px */
+    font-size: 32px;
+}
+
+a {
+    /* This is for anchor properties */
+    background-color: lightgreen;
+    color: darkgreen;
+    text-decoration: none;
+}
+
+li {
+    /* Set list elements to have a square bullet point */
+    list-style-type: square;
+}
+
+#fav {
+    background-color: cyan;
+}
+
+.fav2 {
+    background-color: beige;
+}
+
+ul {
+    /* unordered lists get an orange background color */
+    background-color: orange;
+}
+
+#favorite-musician-name {
+    background-color: cadetblue;
+    font-weight: bold;
+}
+
+.favorite-section {
+    background-color: yellow;
+    border: 3px black dashed;
+    /* exterior margins */
+    margin: 10px;
+    /* interior margins */
+    padding: 15px;
+}
+
+#Books-table, tr, td, th {
+    border: 2px black solid;
+    border-collapse: collapse;
+}
+
+th {
+    width: 200px;
+}
+
+td {
+    text-align: center;
+}
